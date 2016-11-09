@@ -8,7 +8,7 @@
     "category": "Portal",
     "author": """Serpent Consulting Services Pvt. Ltd.,
                 Agile Business Group,
-                Odoo Community Association (OCA),"""
+                Odoo Community Association (OCA)""",
     "website": "http://www.serpentcs.com",
     "license": "AGPL-3",
     "depends": [
